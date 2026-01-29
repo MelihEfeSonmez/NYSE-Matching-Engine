@@ -1,0 +1,3 @@
+Ali bought 1 AAPL for 42.0 USD from Oğuz on 2024-11-18 at 10:52:00
+Oğuz bought 1 AAPL for 40.0 USD from Ali on 2024-11-18 at 10:58:00
+Ali bought 1 AAPL for 45.0 USD from Oğuz on 2024-11-18 at 10:59:00
