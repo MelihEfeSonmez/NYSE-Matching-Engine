@@ -47,4 +47,4 @@ The engine expects order data in the following format:
 ```
 
 ---
-Developed by Melih Efe Sonmez.
+*Developed by Melih Efe Sonmez.*
